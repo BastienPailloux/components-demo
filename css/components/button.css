@@ -1,0 +1,26 @@
+.btn {
+  border-radius: 8px;
+  padding: 16px 24px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.btn-blue {
+  background-color: rgb(65, 174, 246);
+  color: white;
+  text-decoration: none
+}
+
+.btn-blue:hover {
+  background-color: rgb(29, 79, 112);
+}
+
+.btn-red {
+  background-color: rgb(190, 48, 48);
+  color: white;
+  text-decoration: none
+}
+
+.btn-red:hover {
+  background-color: rgb(112, 29, 29);
+}
